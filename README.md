@@ -1,9 +1,9 @@
 <h1 align="left"> OdonScan AI </h1>
 
 <p align="left">
-   <img src="https://img.shields.io/badge/STATUS-DESAROLLADO-green">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    <img src="https://img.shields.io/badge/VERSION-v.1.0-red">
-   <img src="https://img.shields.io/badge/LICENCE-CreativeCommons-blue">
+   <img src="https://img.shields.io/badge/LICENCE-AtogmatomaSoftware-blue">
    <img src="https://img.shields.io/badge/LANGUAGE-Python-purple">
    <img src="https://img.shields.io/badge/LIBRARY-TensorFlow-yellow">
    </p>
