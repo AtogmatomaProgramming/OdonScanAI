@@ -48,11 +48,10 @@ This project consists of three main scripts, each focused on a specific task:
 ## Contact Information
 
 <p align="justify">
-I am glad to heard your feedback, suggestions, and inquiries about the OdonScan project! Feel free to reach out to us through the following channels:
+I am glad to heard your feedback, suggestions, and inquiries about the OdonScanAI project! Feel free to reach out to us through the following channels:
 </p>
 
 - **Developer/Project Lead**: AtogmatomaProgramming
 - **Email**: [albert.candelario.oficial@gmail.com](mailto:albert.candelario.oficial@gmail.com)
 - **GitHub Repository**: [OdonScanAI GitHub Repo](https://github.com/AtogmatomaProgramming/OdonScanAI)
-- **Spanish Institute of Oceanography (IEO)**: For collaboration inquiries, visit [IEO Official Website](https://www.ieo.es).
 
