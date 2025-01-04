@@ -17,7 +17,7 @@
 ## Overview
 
 <p align="justify">
-OdonScanAI is the backbone of the OdonScan mobile application, designed to recognize marine species through AI technology. This repository hosts the scripts required to train, evaluate, and deploy a convolutional neural network (CNN) for species identification. 
+OdonScanAI is the backbone of the <a href="https://github.com/AtogmatomaProgramming/OdonScan">OdonScan</a> mobile application, designed to recognize marine species through AI technology. This repository hosts the scripts required to train, evaluate, and deploy a convolutional neural network (CNN) for species identification. 
 </p>
 
 ## Project Structure
